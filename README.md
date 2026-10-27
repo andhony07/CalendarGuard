@@ -221,7 +221,7 @@ npm run preview
 
 ---
 
-## 9. Assumptions, Limitations & Future Work
+## 8. Assumptions, Limitations & Future Work
 
 - **Local Working Hours Model**: Assumes standard 9:00 AM – 5:00 PM working window (customizable via Settings).
 - **Flexible vs. Fixed Semantics**: Proposes automatic changes only to events marked `flexible`. Fixed events require explicit user override.
@@ -229,6 +229,6 @@ npm run preview
 
 ---
 
-## 10. License & Attribution
+## 9. License & Attribution
 
 CalendarGuard is an independent open-source hackathon prototype developed for productivity calendar innovation. MIT License.
